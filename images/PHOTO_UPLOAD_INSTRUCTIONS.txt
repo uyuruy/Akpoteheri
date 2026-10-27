@@ -1,0 +1,30 @@
+AKPOTEHERI - YOUR PORTRAIT GOES HERE
+
+Upload your own photograph into THIS images folder.
+
+Exactly name the file:
+    profile-picture.jpg
+
+So the final structure is:
+    Akpoteheri/
+      index.html
+      images/
+        profile-picture.jpg
+        PHOTO_UPLOAD_INSTRUCTIONS.txt
+
+The portrait on the homepage uses:
+    <img src="images/profile-picture.jpg">
+
+A JPG or JPEG image with that exact filename is recommended. If you have a PNG, convert it to JPG first, rather than just renaming the extension.
+
+Photo suggestions:
+- Clear professional headshot, facing front, neutral background
+- Portrait/cropped image at least 500 x 600 pixels, preferably around 800 x 1000
+- Avoid overly strong contrast and excessive retouching
+
+No photograph is required to publish. Until this file exists, the card gracefully displays "ATU". Replacing the portrait later will not affect the other site.
+
+IMPORTANT:
+- DO NOT upload the photo to the Tony repository.
+- Upload it to your NEW uyuruy/Akpoteheri repository, inside its /images/ folder.
+- GitHub names and paths are case-sensitive on the website: match the filename exactly.
